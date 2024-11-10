@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="Group 1 Project"
-config/features=PackedStringArray("4.2", "Mobile")
+run/main_scene="res://main_menu.tscn"
+config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
 
 [rendering]
